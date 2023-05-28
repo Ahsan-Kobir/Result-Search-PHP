@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+.title-bar {
+  position: inherit;
+  background-color: blueviolet;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  border:  dotted red 1px;
+  vertical-align: baseline;
+}
+
+h1.title-text {
+  font-family: 'Lilita One', cursive;
+  color: white;
+  font-size: 3vmax;
+  text-align: center;
+  vertical-align: inherit;
+  margin-top: 1px;
+
+}
+
+img.logo {
+  width: 10vmax;
+  height: 10vmax;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
