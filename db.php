@@ -1,9 +1,9 @@
 <?php
 
-$servername = "sql303.byethost12.com";
-$username = "b12_23183042";
-$password = "ahsanISCOOL";
-$dbName = "b12_23183042_result";
+$servername = "localhost";
+$username = "root";
+$password = null;
+$dbName = "bpiResult";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbName);
